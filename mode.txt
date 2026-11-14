@@ -1,0 +1,2 @@
+Write mode...Hi How are You Doing?
+ Append mode...I am Happy!
